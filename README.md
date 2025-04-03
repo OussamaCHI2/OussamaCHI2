@@ -1,7 +1,7 @@
-👋 Hi, I'm Oussama Chichaoui!
-🚀 AI Enthusiast | Full-Stack Developer | Problem Solver
+🚀 Oussama Chichaoui | AI Engineer & Full-Stack Developer
+🔹 Artificial Intelligence | Machine Learning | Full-Stack Development
 
-I'm a passionate AI and Full-Stack Developer who loves building intelligent systems and scalable applications. With a deep interest in machine learning, deep learning, and software engineering, I enjoy solving complex problems and creating seamless digital experiences.
+I am an AI Engineer and Full-Stack Developer passionate about designing intelligent systems and scalable applications. My expertise spans from developing cutting-edge AI models to building robust web applications that drive innovation.
 
 🔹 Tech Stack:
 
