@@ -95,15 +95,12 @@ me.say_hi()
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=
-OussamaCHI2&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=2C9CF5&icon_color=2C9CF5&text_color=ffffff" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=
-OussamaCHI2&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2C9CF5&text_color=ffffff" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=OussamaCHI2&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=2C9CF5&icon_color=2C9CF5&text_color=ffffff" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OussamaCHI2&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2C9CF5&text_color=ffffff" height="170" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=
-OussamaCHI2&theme=tokyonight&hide_border=true&background=0d1117&stroke=2C9CF5&ring=2C9CF5&fire=FF6B35&currStreakLabel=ffffff" width="55%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OussamaCHI2&theme=tokyonight&hide_border=true&background=0d1117&stroke=2C9CF5&ring=2C9CF5&fire=FF6B35&currStreakLabel=ffffff" width="55%" />
 </div>
 
 ---
@@ -119,7 +116,7 @@ OussamaCHI2&theme=tokyonight&hide_border=true&background=0d1117&stroke=2C9CF5&ri
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/oussama-chichaoui)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OussamaChichaoui)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OussamaCHI2)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Oussamachichchaoui1236@gmail.com)
 
 </div>
@@ -136,7 +133,7 @@ OussamaCHI2&theme=tokyonight&hide_border=true&background=0d1117&stroke=2C9CF5&ri
 <br/>
 
 <!-- Profile Views Counter -->
-![Profile Views](https://komarev.com/ghpvc/?username=OussamaChichaoui&style=for-the-badge&color=2C9CF5&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=OussamaCHI2&style=for-the-badge&color=2C9CF5&label=PROFILE+VIEWS)
 
 <!-- Footer Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>
