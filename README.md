@@ -5,7 +5,7 @@
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2C9CF5&center=true&vCenter=true&multiline=false&width=600&lines=Building+data+pipelines+🚀;Transforming+raw+data+into+insights+📊;Master's+in+Science+%26+Technology+🎓;Always+learning%2C+always+growing+💡" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/demo/?font=Fira+Code&size=22&duration=3000&pause=1000&color=2C9CF5&center=true&vCenter=true&multiline=false&width=600&lines=Building+data+pipelines+🚀;Transforming+raw+data+into+insights+📊;Master's+in+Science+%26+Technology+🎓;Always+learning%2C+always+growing+💡" alt="Typing SVG" />
 </a>
 
 <br/>
